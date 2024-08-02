@@ -1,8 +1,8 @@
  <h1>Packages Used:</h1>
-  http
- provider
-sqflite
-location
+  http,
+ provider,
+sqflite,
+location,
 shared_preferences
 
 
